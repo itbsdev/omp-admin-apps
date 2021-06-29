@@ -1,0 +1,1 @@
+class SettingsNotFoundException with Exception { }

@@ -1,0 +1,371 @@
+{
+  "project_info": {
+    "project_number": "797773810644",
+    "firebase_url": "https://online-market-place-delivery.firebaseio.com",
+    "project_id": "online-market-place-delivery",
+    "storage_bucket": "online-market-place-delivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797773810644:android:9cc4a3e0760d2783f4a441",
+        "android_client_info": {
+          "package_name": "com.smartcity.onlinemarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797773810644-1gt6866mremgnb5vbb3tg4f8cedvbofo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartcity.onlinemarket",
+            "certificate_hash": "85a01eacf53eca0bc1efca7fb49b420e5659c8eb"
+          }
+        },
+        {
+          "client_id": "797773810644-ln1hp2vrvtdgfmq9qfc508e9dau31r7c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartcity.onlinemarket",
+            "certificate_hash": "0f60be1298d606bbeb2031391c13860c92647d83"
+          }
+        },
+        {
+          "client_id": "797773810644-iir7s9fdgf7nud5t4fchejfl7nd5stck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm7SLurt6cQbO35Pra1pUFjv8-cgE0N4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797773810644-iir7s9fdgf7nud5t4fchejfl7nd5stck.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "797773810644-7j236hv0bbt6r7j3qf8e8el1s056ukmt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "itbs.smart.city.rider.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797773810644:android:10a570771e53ca58f4a441",
+        "android_client_info": {
+          "package_name": "itbs.smart.city.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797773810644-c95k524cjn5ovl65pdnqd9769i8bvchs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "itbs.smart.city.admin",
+            "certificate_hash": "cac7a9799046da47bcf09b4a59602bcb7dee81b4"
+          }
+        },
+        {
+          "client_id": "797773810644-iir7s9fdgf7nud5t4fchejfl7nd5stck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm7SLurt6cQbO35Pra1pUFjv8-cgE0N4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797773810644-iir7s9fdgf7nud5t4fchejfl7nd5stck.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "797773810644-7j236hv0bbt6r7j3qf8e8el1s056ukmt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "itbs.smart.city.rider.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797773810644:android:f1badf0dad70427af4a441",
+        "android_client_info": {
+          "package_name": "itbs.smart.city.market.home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797773810644-mrjn3eitkm8umob9lip5p74ejihs797q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "itbs.smart.city.market.home",
+            "certificate_hash": "12ac30d9beb26a011ff112265a0a1908ec3afb28"
+          }
+        },
+        {
+          "client_id": "797773810644-iir7s9fdgf7nud5t4fchejfl7nd5stck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm7SLurt6cQbO35Pra1pUFjv8-cgE0N4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797773810644-iir7s9fdgf7nud5t4fchejfl7nd5stck.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "797773810644-7j236hv0bbt6r7j3qf8e8el1s056ukmt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "itbs.smart.city.rider.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797773810644:android:b0bec6c6b36d3bcbf4a441",
+        "android_client_info": {
+          "package_name": "itbs.smart.city.market.home.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797773810644-ln2g30g7o28rrt0bdt5l900eco4d2sud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "itbs.smart.city.market.home.dev",
+            "certificate_hash": "cac7a9799046da47bcf09b4a59602bcb7dee81b4"
+          }
+        },
+        {
+          "client_id": "797773810644-iir7s9fdgf7nud5t4fchejfl7nd5stck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm7SLurt6cQbO35Pra1pUFjv8-cgE0N4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797773810644-iir7s9fdgf7nud5t4fchejfl7nd5stck.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "797773810644-7j236hv0bbt6r7j3qf8e8el1s056ukmt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "itbs.smart.city.rider.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797773810644:android:a9499012aa4ac5bbf4a441",
+        "android_client_info": {
+          "package_name": "itbs.smart.city.merchant.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797773810644-85v30i8arumigc73t1goeq2p0u5n57vr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "itbs.smart.city.merchant.app",
+            "certificate_hash": "96351a48a1a6af5d3fc8e2abca8c88b26420d524"
+          }
+        },
+        {
+          "client_id": "797773810644-iir7s9fdgf7nud5t4fchejfl7nd5stck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm7SLurt6cQbO35Pra1pUFjv8-cgE0N4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797773810644-iir7s9fdgf7nud5t4fchejfl7nd5stck.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "797773810644-7j236hv0bbt6r7j3qf8e8el1s056ukmt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "itbs.smart.city.rider.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797773810644:android:385147015b5f8007f4a441",
+        "android_client_info": {
+          "package_name": "itbs.smart.city.merchant.app.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797773810644-7of9qh7ntvh6gut111mvtl9afu98vito.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "itbs.smart.city.merchant.app.dev",
+            "certificate_hash": "cac7a9799046da47bcf09b4a59602bcb7dee81b4"
+          }
+        },
+        {
+          "client_id": "797773810644-iir7s9fdgf7nud5t4fchejfl7nd5stck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm7SLurt6cQbO35Pra1pUFjv8-cgE0N4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797773810644-iir7s9fdgf7nud5t4fchejfl7nd5stck.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "797773810644-7j236hv0bbt6r7j3qf8e8el1s056ukmt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "itbs.smart.city.rider.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797773810644:android:d42a267fa3d354cef4a441",
+        "android_client_info": {
+          "package_name": "itbs.smart.city.rider.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797773810644-rj4qne3u38b20fjm2laf1t2igo9qmnqf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "itbs.smart.city.rider.app",
+            "certificate_hash": "10e5272044616f24fb0619d6b48aa91c994844f1"
+          }
+        },
+        {
+          "client_id": "797773810644-iir7s9fdgf7nud5t4fchejfl7nd5stck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm7SLurt6cQbO35Pra1pUFjv8-cgE0N4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797773810644-iir7s9fdgf7nud5t4fchejfl7nd5stck.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "797773810644-7j236hv0bbt6r7j3qf8e8el1s056ukmt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "itbs.smart.city.rider.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797773810644:android:8eda7cc594855fc2f4a441",
+        "android_client_info": {
+          "package_name": "itbs.smart.city.rider.app.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797773810644-r33iu2c55uh7qg1ap0tu6ouf3od64gbm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "itbs.smart.city.rider.app.dev",
+            "certificate_hash": "cac7a9799046da47bcf09b4a59602bcb7dee81b4"
+          }
+        },
+        {
+          "client_id": "797773810644-iir7s9fdgf7nud5t4fchejfl7nd5stck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm7SLurt6cQbO35Pra1pUFjv8-cgE0N4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797773810644-iir7s9fdgf7nud5t4fchejfl7nd5stck.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "797773810644-7j236hv0bbt6r7j3qf8e8el1s056ukmt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "itbs.smart.city.rider.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
